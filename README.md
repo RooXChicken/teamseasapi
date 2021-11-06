@@ -1,4 +1,4 @@
-# teamseasapi
+# Team Seas API C#
 A simple #TeamSeas API written in C#
 
 # How to
